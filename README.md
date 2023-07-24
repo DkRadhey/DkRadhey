@@ -3,7 +3,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN **
 
 - 👨‍💻 All of my projects are available at [https://dkradhey.github.io/Portfolio/](https://dkradhey.github.io/Portfolio/)
 
